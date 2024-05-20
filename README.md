@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RjDHRUV
 - 👀 I’m interested in Web Designing and Machine Learning
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on Web Development using Django
+- 🌱 I’m currently increasing experience in Data Science 
+- 💞️ I have worked on python and its framework like Django,Sklearn and many more
 - 📫 How to reach me is by LinkedIn
 
 <!---
